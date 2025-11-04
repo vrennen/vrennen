@@ -13,9 +13,9 @@ I also enjoy some other activities. Sometimes I wish there was 48h in a day!
 
 ### Contact
 
-You can reach me at [e-mail](mailto:brenonascimento@proton.me) and [Linkedin (in construction)](https://www.linkedin.com/in/breno-s-nascimento/)
+You can reach me at [e-mail](mailto:brenonascimento@proton.me) and [LinkedIn (in construction)](https://www.linkedin.com/in/breno-s-nascimento/).
 
 ### Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrennen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrennen&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<sub>*This README is best viewed on 0 hours of sleep</sub>
+<sub>*This README is best viewed on 0 hours of sleep.</sub>
