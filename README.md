@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**vrennen/vrennen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I primarily code in **C/++** and **Python** as a hobby and do research in FPGA using **(System)Verilog** about high speed data transfer.
 
-Here are some ideas to get you started:
+* 📚 CompE student at *Federal University of Sergipe* (UFS)
+* 🔎 Hardware researcher
+* 📖 Imperative Programming Tutor
+* 💻 Low level developer
+* 💾 Hobbyist cybersec researcher
+* 📀 Retro games preservationist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also enjoy some other activities. Sometimes I wish there was 48h in a day!
+
+### Contact
+
+You can reach me at [e-mail](mailto:brenonascimento@proton.me) and [Linkedin (in construction)](https://www.linkedin.com/in/breno-s-nascimento/)
+
+### Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrennen)](https://github.com/anuraghazra/github-readme-stats)
+
+<sub>*This README is best viewed on 0 hours of sleep</sub>
